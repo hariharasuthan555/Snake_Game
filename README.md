@@ -4,6 +4,9 @@
 
 Welcome to the Snake Game! A classic arcade experience where you control a growing snake to collect food while avoiding collisions with walls and yourself. The objective is to eat as much food as possible to grow your snake longer, achieving the highest score you can.
 
+![output](https://github.com/user-attachments/assets/c399546d-f647-4d8c-8bfb-af9d5ed62f1a)
+
+
 ### Features
 - Simple and intuitive controls
 - Engaging gameplay with increasing difficulty
