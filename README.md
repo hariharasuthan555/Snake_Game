@@ -1,44 +1,66 @@
-# Snake Game built in PyCharm
+# Snake Game Remastered
 
-## Description
+## Game Overview
 
-This is a classic Snake Game implemented in Python using the `turtle` module. The game allows you to control a snake to eat food and grow longer. The objective is to achieve the highest score without colliding with the snake’s own body or the screen boundaries.
+Welcome to the Snake Game! A classic arcade experience where you control a growing snake to collect food while avoiding collisions with walls and yourself. The objective is to eat as much food as possible to grow your snake longer, achieving the highest score you can.
 
-## Features
+### Features
+- Simple and intuitive controls
+- Engaging gameplay with increasing difficulty
+- High score tracking
+- Fun graphics and sound effects
 
-- Graphical Interface: Interactive game window using `turtle`.
-- Controls: Arrow keys to navigate the snake.
-- Scoring: Increase your score by eating food.
-- Collision Detection: Game ends on collision with the wall or self.
+## System Requirements
 
-## Requirements
+- **Operating System**: Windows 7 or later
+- **Processor**: 1 GHz or faster
+- **RAM**: 1 GB or more
+- **Graphics**: DirectX compatible graphics
+- **Storage**: At least 50 MB of free space
 
-- Python 3.x (includes the `turtle` module by default).
+## Installation Instructions
 
-## Installation
+1. **Download the Installer**:
+   - Download the Snake Game installer from the provided link.
 
-1. Clone this repository or download the `main.py` file.
+2. **Run the Installer**:
+   - Locate the downloaded installer file (e.g., `SnakeGameInstaller.exe`).
+   - Double-click the installer to start the installation process.
 
-## Running the Game
+3. **Follow the Setup Wizard**:
+   - Follow the on-screen instructions.
+   - Choose the installation directory or proceed with the default location.
+   - Optionally, choose to create a desktop shortcut.
 
-Execute the game script with Python:
-
-python main.py
-
-## Controls
-
-Arrow Keys: Use the arrow keys to steer the snake.
+4. **Finish Installation**:
+   - Once the installation is complete, you will see a confirmation message.
+   - You can choose to launch the game directly from the installer or close it.
 
 ## How to Play
 
-1. Start the Game: Run the `main.py` script.
-2. Navigate the Snake: Use the arrow keys to direct the snake.
-3. Eat Food**: Guide the snake to the food to increase your length and score.
-4. Avoid Collisions: Prevent the snake from hitting itself or the walls to continue playing.
+1. **Start the Game**:
+   - Launch the game by double-clicking the Snake Game shortcut on your desktop or navigating to the installation folder and running `main.exe`.
+
+2. **Controls**:
+   - Use the arrow keys on your keyboard to control the direction of the snake:
+     - Up Arrow: Move Up
+     - Down Arrow: Move Down
+     - Left Arrow: Move Left
+     - Right Arrow: Move Right
+
+3. **Objective**:
+   - Eat the food that appears on the screen to grow your snake.
+   - Avoid running into the walls or colliding with yourself.
+
+4. **Scoring**:
+   - Each piece of food you eat increases your score.
+   - Try to beat your highest score!
+
+## Troubleshooting
+
+- If the game does not launch, ensure that your system meets the minimum requirements.
+- Check if any antivirus software is blocking the game executable.
 
 ## License
 
-This project is licensed under the MIT License. 
-
-
-
+This game is free to use for personal enjoyment. Please do not redistribute or modify the game without permission.
