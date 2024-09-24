@@ -11,7 +11,7 @@ Welcome to the Snake Game! A classic arcade experience where you control a growi
 - Simple and intuitive controls
 - Engaging gameplay with increasing difficulty
 - High score tracking
-- Fun graphics and sound effects
+- Fun graphics
 
 ## System Requirements
 
