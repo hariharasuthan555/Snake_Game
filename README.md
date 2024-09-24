@@ -24,7 +24,7 @@ Welcome to the Snake Game! A classic arcade experience where you control a growi
 ## Installation Instructions
 
 1. **Download the Installer**:
-   - Download the Snake Game installer from the provided link.
+   - Download the Snake Game installer file (SnakeGameInstaller.exe) from this repo
 
 2. **Run the Installer**:
    - Locate the downloaded installer file (e.g., `SnakeGameInstaller.exe`).
