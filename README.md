@@ -66,4 +66,4 @@ Welcome to the Snake Game! A classic arcade experience where you control a growi
 
 ## License
 
-This game is free to use for personal enjoyment. Please do not redistribute or modify the game without permission.
+This game is free to use for personal enjoyment.
